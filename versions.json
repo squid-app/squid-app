@@ -1,0 +1,16 @@
+{
+  "0.1.0": {
+    "url": "http://url.to/new/dmg.file",
+    "md5": "checksum",
+    "dependency": "version ID",
+    "changelog": {
+      "en": [
+        {
+          "title": "update title",
+          "img": "http://path/to/img.jpg",
+          "desc": "update desc"
+        }
+      ]
+    }
+  }
+}
